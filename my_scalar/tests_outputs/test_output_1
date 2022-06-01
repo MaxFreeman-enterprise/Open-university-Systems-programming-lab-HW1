@@ -1,0 +1,14 @@
+Please enter the size of the vectors: (up to 10000) 4
+Please enter elements of vector1
+ please enter the first vector's values one by one:
+1
+-2
+3
+-4
+Great!
+now please enter the second vector's values one by one:
+6
+7
+1
+-2
+The dot product is 3

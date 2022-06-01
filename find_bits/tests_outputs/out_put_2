@@ -1,0 +1,6 @@
+Welcome to the find_bits project!
+Please enter the first number: (x): 61342312853
+your input choice is: 61342312853 
+please enter the second number: (y): 32312321354
+your input choice is: 32312321354 
+There are 4 turned on bits that we found from the two inputs.

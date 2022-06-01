@@ -1,0 +1,7 @@
+Welcome to the find_bits project!
+Please enter the first number: (x): 485
+your input choice is: 485 
+please enter the second number: (y): 93
+your input choice is: 93 
+There are 3 turned on bits that we found from the two inputs.
+
